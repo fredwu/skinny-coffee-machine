@@ -2,7 +2,7 @@
 
 ### A simple state machine with observers.
 
-Skinny Coffee Machine is a simple JavaScript state machine written in CoffeeScript. It was originally developed whilst rewriting version 2.0 of [jQuery Endless Scroll](https://github.com/fredwu/jquery-endless-scroll).
+Skinny Coffee Machine is a simple JavaScript state machine written in CoffeeScript. It is being developed for the 2.0 rewrite of [jQuery Endless Scroll](https://github.com/fredwu/jquery-endless-scroll).
 
 ## Usage
 
