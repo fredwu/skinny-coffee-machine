@@ -4,6 +4,14 @@
 
 Skinny Coffee Machine is a simple JavaScript state machine written in CoffeeScript. It is being developed for the 2.0 rewrite of [jQuery Endless Scroll](https://github.com/fredwu/jquery-endless-scroll).
 
+## NPM
+
+If you use [npm](https://npmjs.org/), you can grab the source code by:
+
+```
+npm install skinny-coffee-machine
+```
+
 ## Usage
 
 ### Define State Machines
