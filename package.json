@@ -31,6 +31,9 @@
   "files": [
     "skinny-coffee-machine.js"
   ],
+  "dependencies": {
+    "grunt": ">= 0.3.0"
+  },
   "scripts": {
     "test": "grunt"
   }
