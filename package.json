@@ -1,0 +1,37 @@
+{
+  "name": "skinny-coffee-machine",
+  "version": "0.1.0",
+  "title": "Skinny Coffee Machine",
+  "author": {
+    "name": "Fred Wu",
+    "url": "http://fredwu.me/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fredwu/skinny-coffee-machine.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fredwu/skinny-coffee-machine/issues"
+  },
+  "licenses": [{
+    "type": "MIT",
+    "url": "http://fredwu.mit-license.org/"
+  }],
+  "description": "A simple state machine with observers.",
+  "keywords": [
+    "state machine",
+    "observers",
+    "coffeescript"
+  ],
+  "homepage": "https://github.com/fredwu/skinny-coffee-machine",
+  "maintainers": [{
+    "name": "Fred Wu",
+    "url": "http://fredwu.me/"
+  }],
+  "files": [
+    "skinny-coffee-machine.js"
+  ],
+  "scripts": {
+    "test": "grunt"
+  }
+}
