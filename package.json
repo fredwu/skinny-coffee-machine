@@ -29,8 +29,9 @@
     "url": "http://fredwu.me/"
   }],
   "files": [
-    "skinny-coffee-machine.js"
+    "skinny-state-machine.js"
   ],
+  "main": "./skinny-state-machine.js",
   "dependencies": {
     "grunt": ">= 0.3.0"
   },
