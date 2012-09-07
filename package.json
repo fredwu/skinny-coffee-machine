@@ -1,6 +1,6 @@
 {
   "name": "skinny-coffee-machine",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "title": "Skinny Coffee Machine",
   "author": {
     "name": "Fred Wu",
@@ -17,7 +17,7 @@
     "type": "MIT",
     "url": "http://fredwu.mit-license.org/"
   }],
-  "description": "A simple state machine with observers.",
+  "description": "A simple JavaScript state machine with observers, for browsers and Node.js.",
   "keywords": [
     "state machine",
     "observers",

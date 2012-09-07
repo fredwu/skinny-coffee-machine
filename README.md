@@ -1,6 +1,6 @@
 # Skinny Coffee Machine [![endorse](http://api.coderwall.com/fredwu/endorsecount.png)](http://coderwall.com/fredwu) [![Build Status](https://secure.travis-ci.org/fredwu/skinny-coffee-machine.png?branch=master)](http://travis-ci.org/fredwu/skinny-coffee-machine)
 
-### A simple state machine with observers.
+### A simple JavaScript state machine with observers, for browsers and Node.js.
 
 Skinny Coffee Machine is a simple JavaScript state machine written in CoffeeScript. It is being developed for the 2.0 rewrite of [jQuery Endless Scroll](https://github.com/fredwu/jquery-endless-scroll).
 
