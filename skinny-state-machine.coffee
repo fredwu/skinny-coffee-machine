@@ -84,4 +84,8 @@ class SkinnyObserverWorker
 class SkinnyLogger
   constructor: (@logger = {}) ->
 
-window.SkinnyCoffeeMachine = SkinnyCoffeeMachine
+root = this
+if typeof module is 'undefined'
+  root.SkinnyCoffeeMachine = SkinnyCoffeeMachine
+else
+  module.exports = SkinnyCoffeeMachine
