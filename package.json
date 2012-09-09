@@ -35,6 +35,15 @@
   "dependencies": {
     "grunt": ">= 0.3.0"
   },
+  "devDependencies": {
+    "coffee-script": "1.x",
+    "mocha": "1.x",
+    "grunt": "0.x"
+  },
+  "bundleDependencies": [
+    "grunt-coffee",
+    "grunt-mocha"
+  ],
   "scripts": {
     "test": "grunt"
   }
